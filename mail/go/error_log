@@ -1,0 +1,46 @@
+[26-Feb-2017 18:06:14 Asia/Kolkata] PHP Notice:  Undefined variable: ffmail in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 22
+[26-Feb-2017 18:06:14 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[26-Feb-2017 18:15:43 Asia/Kolkata] PHP Notice:  Undefined variable: ffmail in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 22
+[26-Feb-2017 18:15:43 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[26-Feb-2017 18:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: ffmail in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 22
+[26-Feb-2017 18:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[26-Feb-2017 18:27:11 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[26-Feb-2017 19:34:12 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[27-Feb-2017 11:29:59 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[27-Feb-2017 13:32:32 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[27-Feb-2017 13:32:32 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined index: fullname in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 5
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined index: faddress in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 6
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined index: fpincode in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 7
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined index: fcontact in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 8
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined index: ffmail in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 9
+[27-Feb-2017 13:33:35 Asia/Kolkata] PHP Notice:  Undefined variable: sezol in /home/makersga/public_html/unpolluted.in/mail/go/shop-success.php on line 115
+[27-Feb-2017 16:43:59 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:44:04 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:44:32 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:44:35 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:54:53 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:54:58 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 16:54:58 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 17:14:44 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 17:31:14 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 32
+[27-Feb-2017 17:32:06 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 32
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fullname in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 5
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: faddress in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 6
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fpincode in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 7
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fcontact in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 8
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: ffmail in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 9
+[27-Feb-2017 17:32:11 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 32
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fullname in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 5
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: faddress in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 6
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fpincode in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 7
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: fcontact in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 8
+[27-Feb-2017 17:32:11 UTC] PHP Notice:  Undefined index: ffmail in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 9
+[27-Feb-2017 17:32:11 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 32
+[27-Feb-2017 17:37:05 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/hasija1992/public_html/mail/go/shop-success.php on line 38
+[27-Feb-2017 17:38:11 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 34
+[27-Feb-2017 17:38:11 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 34
+[27-Feb-2017 17:44:54 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 37
+[27-Feb-2017 17:52:16 UTC] PHP Fatal error:  Call to undefined function alert() in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 37
+[27-Feb-2017 18:10:13 UTC] PHP Notice:  Undefined variable: sezol in /home/hasija1992/public_html/mail/go/shop-success_try.php on line 117
+[28-Feb-2017 11:54:26 UTC] PHP Notice:  Undefined variable: numpl in /home/hasija1992/public_html/mail/go/shop-success.php on line 33
